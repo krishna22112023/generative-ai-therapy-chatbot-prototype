@@ -1,6 +1,4 @@
-![ST Engineering Logo](./data/assets/logos/st-engineering-logo.png)
-
-# An Empathetic Chatbot for NS/Pre-NS Members
+# Conversational therapy chatbot using multi-agent LLM.
 
 `Note : This solution is only a prototype. The chatbot can make mistakes. Please verify and double-check responses.`
 
@@ -20,6 +18,10 @@ Other features :
 
 - Not implemented using langchain : Since this is only a prototype, we decided to implement the agentic system from scratch (without libraries like langchain or llamaindex). 
 - Please also note that system artefacts (like data, prompts, schemas) are all stored in flat files for sake of simiplicity.
+
+## Demo
+
+[demo](https://drive.google.com/file/d/10B_2L3lH4-jZUyBks0FBr7QIbQu5z4WB/view?usp=sharing)
 
 ## Setup Virtual Environments
 
