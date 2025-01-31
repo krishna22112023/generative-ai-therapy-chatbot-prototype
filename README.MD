@@ -1,5 +1,5 @@
 <div align="center">
-    <img src=“./data/assets/logos/streamlit-app-logo.jpeg" width="50%">
+    <img src=“data/assets/logos/streamlit-app-logo.jpeg" width="50%">
 </div>
 
 # Conversational therapy chatbot using multi-agent LLM.
