@@ -1,0 +1,21 @@
+version: '3.8'
+services:
+  pslewriter:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: generative-ai-buddy-rev-container
+    working_dir: /root/workspace/services/generative-ai-buddy-rev
+    volumes:
+      - .:/root/workspace/services/generative-ai-buddy-rev
+    ports:
+      - "8000:8000"  # Expose the port for Gradio
+    command: ["python", "scripts/run_API.py"]  # Command to start the Gradio app
+    depends_on:
+      - redis
+
+  redis:
+    image: "redis"
+    container_name: redis-container
+    ports:
+      - "6379:6379"  # Expose the default Redis port

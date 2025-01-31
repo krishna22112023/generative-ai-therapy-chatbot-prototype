@@ -1,0 +1,27 @@
+{
+    "info": [
+        {
+            "Description": "The Patient Health Questionnaire (PHQ-9) is a self-administered survey based on the DSM-IV diagnostic criteria for major depressive disorder and incorporates other leading major depressive symptoms. PHQ-9 helps primary care clinicians diagnose and monitor depression in adults. The PHQ-9 is a nine-item questionnaire that asks patients to rate the frequency of certain symptoms in the past two weeks on a four-point scale ranging from 0 (not at all) to 3 (nearly every day).",
+            "Total_Questions": "3",
+            "Duration": "About 1 minute"
+        }
+    ],
+    "preamble": "Over the last 2 weeks, how often have you been bothered by any of the following problems?",
+    "qa": [
+        {
+            "1": "Little interest or pleasure in doing things: \n a. Not at all. \n b. Several days. \n c. More than half the days. \n d. Nearly every day. \n",
+            "2": "Feeling down, depressed, or hopeless: \n a. Not at all. \n b. Several days. \n c. More than half the days. \n d. Nearly every day. \n",
+            "3": "Trouble falling or staying asleep, or sleeping too much: \n a. Not at all. \n b. Several days. \n c. More than half the days. \n d. Nearly every day. \n"
+        }
+    ],
+    "answer_structure": [
+        {
+            "Question1": "str",
+            "Answer1": "str",
+            "Question2": "str",
+            "Answer2": "str",
+            "Question3": "str",
+            "Answer3": "str"
+        }
+    ]
+}

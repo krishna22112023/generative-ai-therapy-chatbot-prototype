@@ -1,0 +1,17 @@
+{
+    "questions": [
+        {
+            "1": "PHQ9 - Feeling nervous, anxious, or on edge",
+            "2": "PHQ9 - Not being able to stop or control worrying"
+        }
+    ],
+    "answers": [
+        {
+            "1": "Not at all",
+            "2": "Several days",
+            "3": "More than half the days",
+            "4": "Nearly every day"
+        }
+    ],
+    "preamble": "You need to know that this is PHQ-9 survey. Over the last 5 weeks, how often have you been bothered by any of the following problems?"
+}

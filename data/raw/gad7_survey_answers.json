@@ -1,0 +1,157 @@
+{
+    "jian.hao": {
+        "2024-04-16": [
+            {
+                "1": "Nearly every day",
+                "2": "Nearly every day",
+                "3": "Nearly every day",
+                "4": "Several days",
+                "5": "Not at all",
+                "6": "Not at all",
+                "7": "Several days"
+            }
+        ],
+        "2024-04-17": [
+            {
+                "1": "Nearly every day",
+                "2": "Nearly every day",
+                "3": "Nearly every day",
+                "4": "Not at all",
+                "5": "Several days",
+                "6": "Several days",
+                "7": "Several days"
+            }
+        ],
+        "2024-04-18": [
+            {
+                "1": "Nearly every day",
+                "2": "Nearly every day",
+                "3": "Nearly every day"
+            }
+        ],
+        "2024-05-07": [
+            {
+                "1": "More than half the days",
+                "2": "Nearly every day",
+                "3": "More than half the days"
+            }
+        ]
+    },
+    "mohammad.faizal": {
+        "2024-04-16": [
+            {
+                "1": "Several days",
+                "2": "Nearly every day",
+                "3": "Several days",
+                "4": "Several days",
+                "5": "Several days",
+                "6": "Several days",
+                "7": "Several days"
+            }
+        ],
+        "2024-04-17": [
+            {
+                "1": "Several days",
+                "2": "Several days",
+                "3": "Several days",
+                "4": "More than half the days",
+                "5": "Several days",
+                "6": "Several days",
+                "7": "Not at all"
+            }
+        ],
+        "2024-05-08": [
+            {
+                "1": "Not at all",
+                "2": "Not at all",
+                "3": "Not at all"
+            }
+        ]
+    },
+    "arjun.kumar": {
+        "2024-04-16": [
+            {
+                "1": "Several days",
+                "2": "Nearly every day",
+                "3": "Several days",
+                "4": "Several days",
+                "5": "Several days",
+                "6": "Several days",
+                "7": "Several days"
+            }
+        ],
+        "2024-04-17": [
+            {
+                "1": "More than half the days",
+                "2": "Several days",
+                "3": "Several days",
+                "4": "More than half the days",
+                "5": "Several days",
+                "6": "Several days",
+                "7": "Several days"
+            }
+        ]
+    },
+    "benjamin.davis": {
+        "2024-04-16": [
+            {
+                "1": "Not at all",
+                "2": "Several days",
+                "3": "Several days",
+                "4": "Not at all",
+                "5": "Several days",
+                "6": "Not at all",
+                "7": "Several days"
+            }
+        ],
+        "2024-04-17": [
+            {
+                "1": "Several days",
+                "2": "Several days",
+                "3": "More than half the days",
+                "4": "Several days",
+                "5": "Several days",
+                "6": "More than half the days",
+                "7": "More than half the days"
+            }
+        ],
+        "2024-07-15": [
+            {
+                "1": "Not at all",
+                "2": "Not at all",
+                "3": "Over several days"
+            }
+        ]
+    },
+    "zheng.wei": {
+        "2024-04-16": [
+            {
+                "1": "Several days",
+                "2": "Several days",
+                "3": "Several days",
+                "4": "More than half the days",
+                "5": "Several days",
+                "6": "Several days",
+                "7": "Several days"
+            }
+        ],
+        "2024-04-17": [
+            {
+                "1": "Nearly every day",
+                "2": "Nearly every day",
+                "3": "Nearly every day",
+                "4": "More than half the days",
+                "5": "Nearly every day",
+                "6": "Nearly every day",
+                "7": "Nearly every day"
+            }
+        ],
+        "2024-05-09": [
+            {
+                "1": "Nearly every day",
+                "2": "More than half the days",
+                "3": "Not at all"
+            }
+        ]
+    }
+}

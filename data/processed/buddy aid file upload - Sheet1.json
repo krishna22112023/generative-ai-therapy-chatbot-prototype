@@ -1,0 +1,56 @@
+[
+    {
+        "Name": "What its like tackling the first National Service boot camp for women",
+        "description": "Details about the inaugural Womens Boot Camp at Maju Camp in Singapore. Participants, ranging from 13 to over 50 years old, experienced a scaled-down version of National Service, including obstacle courses, handling the SAR 21 rifle, and consuming combat rations. The camp aimed to provide women with a deeper understanding and appreciation of the challenges faced by soldiers, emphasizing safety protocols throughout the activities",
+        "response_type": "Video",
+        "keywords": [
+            "NS Information",
+            "Neutral",
+            "Womens Boot Camp",
+            "Singapore Armed Forces",
+            "Obstacle Course"
+        ],
+        "cat0": "NS_RAG",
+        "text": "",
+        "verbatim_flag": false,
+        "url": "https://www.youtube.com/watch?v=r_oOuYyvto8",
+        "duration": "01:12",
+        "ID": 0
+    },
+    {
+        "Name": "National Service Enlistment Process in Singapore",
+        "description": "The image outlines the vocation selection process for Singaporean pre-enlistees, including researching vocations, registering and indicating preferences, undergoing medical screening, and completing basic training before receiving a posting order. It details the steps taken from home to Central Manpower Base (CMPB) and highlights the importance of each full-time national serviceman\u2019s role in national defense and security.",
+        "response_type": "Image",
+        "keywords": [
+            "National Service",
+            "Enlistment Process",
+            "Singapore",
+            "CMPB",
+            "Military Vocations"
+        ],
+        "cat0": "NS_RAG",
+        "text": "The image provided details the process for pre-enlistees in Singapore to prepare for National Service (NS). Here\u2019s a detailed breakdown of the process described in the image: 1. At Home: - Step 1: Find out more about the available vocations on the CMPB website (videos and handbook). Pre-enlistees are encouraged to explore and learn about the different vocations available in the Singapore Armed Forces (SAF), Singapore Civil Defence Force (SCDF), and Singapore Police Force (SPF). This information is available through the CMPB website, which includes videos and handbooks. - Step 2: Register for NS and indicate interest in vocations on the NS Portal before medical screening. Pre-enlistees must register for National Service and indicate their vocational interests on the NS Portal. This should be done before attending the medical screening. 2. At CMPB (Central Manpower Base): - Step 3: Attend medical screening. The medical screening assesses the medical fitness of pre-enlistees, which will influence their deployment in NS. 3. Indicating Interest in Vocations: - There are 7 categories of vocations, divided among: - 3 from SAF - 2 from SCDF - 2 from SPF Pre-enlistees can indicate interest in 2 or more vocations in each category. They also have the option to indicate if they have no specific interest in any vocation. - Deployment is based on manpower and operational requirements, as well as the pre-enlistee\u2019s medical fitness, cognitive attributes, skills, and interests. 4. Further Steps After Screening: - Step 4: Enlist into SAF, SCDF, or SPF. Pre-enlistees are formally enlisted into one of the services based on the needs and their qualifications. - Step 5: Undergo basic training. Enlistees undergo basic training to prepare them for their roles in their respective services. - Step 6: Check posting order. After completing basic training, enlistees receive their posting orders, which detail their specific role and unit within the service. 5. Additional Note: The final statement emphasizes that every full-time national serviceman plays an important role regardless of their vocation. They contribute to the national defense and security of Singapore.",
+        "verbatim_flag": false,
+        "url": "https://drive.google.com/file/d/1ook8Dx4qQcbz6GVjcbsY9lIuy1F-IVEq/view?usp=share_link",
+        "duration": "",
+        "ID": 1
+    },
+    {
+        "Name": "List of Items Issued to SAF Full-Time National Servicemen",
+        "description": "A comprehensive list of items issued to full-time National Servicemen in the Singapore Armed Forces (SAF), including uniforms, equipment, clothing, toiletries, and other essential items. The list includes specific quantities for each item, such as belts, boots, face paints, identification tags, and personal items, ensuring that servicemen are adequately equipped for their duties and training.",
+        "response_type": "PDF",
+        "keywords": [
+            "SAF",
+            "Issued Items",
+            "National Servicemen",
+            "Equipment List",
+            "Singapore Armed Forces"
+        ],
+        "cat0": "NS_RAG",
+        "text": "The document provides a detailed list of items issued to full-time National Servicemen in the Singapore Armed Forces (SAF). The list includes: - Uniform items: Such as belts, boot laces, camouflage-patterned caps, combat boots, ear plugs, and face paints. - Integrated Load Bearing Vest (iLBV) items: Including grenade pouches, hydration bladder carriers, magazine pouches, and more. - Clothes and shoes: Such as general purpose shorts, physical training vests, raincoats, running shoes, and sandals. - Toiletries: Including a toiletries kit, foot and body powder, toilet paper, and pre-soaped sponges. - Other items: Like batteries, water bottles, mess kits, badge holders, ballpoint pens, shoe polish, digital thermometers, and many others. The list specifies the quantity of each item provided, ensuring that each serviceman receives all necessary gear for training and operational readiness.",
+        "verbatim_flag": false,
+        "url": "https://www.cmpb.gov.sg/docs/default-source/beforenspdf/list-of-items-issued-saf.pdf?sfvrsn=775611bd_1",
+        "duration": "",
+        "ID": 2
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "questions": [
+        {
+            "1": "Feeling nervous, anxious, or on edge",
+            "2": "Not being able to stop or control worrying"
+        }
+    ],
+    "answers": [
+        {
+            "1": "Not at all",
+            "2": "Several days",
+            "3": "More than half the days",
+            "4": "Nearly every day"
+        }
+    ],
+    "preamble": "Over the last 2 weeks, how often have you been bothered by any of the following problems?"
+}

@@ -1,0 +1,1022 @@
+[
+  {
+    "single_task": {
+      "easy": [
+        {
+          "idx": 1,
+          "actual_states": [
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "empathetic"
+          ]
+        },
+        {
+          "idx": 2,
+          "actual_states": [
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 3,
+          "actual_states": [
+            "counsellor"
+          ],
+          "generated_states": [
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 4,
+          "actual_states": [
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 5,
+          "actual_states": [
+            "survey"
+          ],
+          "generated_states": [
+            ""
+          ]
+        },
+        {
+          "idx": 6,
+          "actual_states": [
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "counsellor"
+          ]
+        },
+        {
+          "idx": 7,
+          "actual_states": [
+            "empathetic"
+          ],
+          "generated_states": [
+            "empathetic"
+          ]
+        },
+        {
+          "idx": 8,
+          "actual_states": [
+            "counsellor"
+          ],
+          "generated_states": [
+            "counsellor"
+          ]
+        },
+        {
+          "idx": 9,
+          "actual_states": [
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 10,
+          "actual_states": [
+            "empathetic"
+          ],
+          "generated_states": [
+            "empathetic"
+          ]
+        }
+      ],
+      "medium": [
+        {
+          "idx": 1,
+          "actual_states": [
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 2,
+          "actual_states": [
+            "empathetic"
+          ],
+          "generated_states": [
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 3,
+          "actual_states": [
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 4,
+          "actual_states": [
+            "counsellor"
+          ],
+          "generated_states": [
+            "counsellor"
+          ]
+        },
+        {
+          "idx": 5,
+          "actual_states": [
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 6,
+          "actual_states": [
+            "counsellor"
+          ],
+          "generated_states": [
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 7,
+          "actual_states": [
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 8,
+          "actual_states": [
+            "counsellor"
+          ],
+          "generated_states": [
+            "counsellor"
+          ]
+        },
+        {
+          "idx": 9,
+          "actual_states": [
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 10,
+          "actual_states": [
+            "empathetic"
+          ],
+          "generated_states": [
+            "empathetic"
+          ]
+        }
+      ],
+      "hard": [
+        {
+          "idx": 1,
+          "actual_states": [
+            "counsellor"
+          ],
+          "generated_states": [
+            "counsellor"
+          ]
+        },
+        {
+          "idx": 2,
+          "actual_states": [
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 3,
+          "actual_states": [
+            "empathetic"
+          ],
+          "generated_states": [
+            "empathetic"
+          ]
+        },
+        {
+          "idx": 4,
+          "actual_states": [
+            "counsellor"
+          ],
+          "generated_states": [
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 5,
+          "actual_states": [
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 6,
+          "actual_states": [
+            "counsellor"
+          ],
+          "generated_states": [
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 7,
+          "actual_states": [
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 8,
+          "actual_states": [
+            "counsellor"
+          ],
+          "generated_states": [
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 9,
+          "actual_states": [
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 10,
+          "actual_states": [
+            "empathetic"
+          ],
+          "generated_states": [
+            "empathetic"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "double_task": {
+      "easy": [
+        {
+          "idx": 1,
+          "actual_states": [
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "counsellor"
+          ]
+        },
+        {
+          "idx": 2,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "empathetic"
+          ]
+        },
+        {
+          "idx": 3,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "empathetic"
+          ]
+        },
+        {
+          "idx": 4,
+          "actual_states": [
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "empathetic",
+            "empathetic"
+          ]
+        },
+        {
+          "idx": 5,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "empathetic"
+          ]
+        },
+        {
+          "idx": 6,
+          "actual_states": [
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "counsellor"
+          ]
+        },
+        {
+          "idx": 7,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "empathetic"
+          ]
+        },
+        {
+          "idx": 8,
+          "actual_states": [
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "empathetic",
+            "counsellor"
+          ]
+        },
+        {
+          "idx": 9,
+          "actual_states": [
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 10,
+          "actual_states": [
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "empathetic"
+          ]
+        }
+      ],
+      "medium": [
+        {
+          "idx": 1,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "empathetic",
+            "empathetic"
+          ]
+        },
+        {
+          "idx": 2,
+          "actual_states": [
+            "counsellor",
+            "empathetic"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "empathetic"
+          ]
+        },
+        {
+          "idx": 3,
+          "actual_states": [
+            "RAG_NS",
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "empathetic",
+            "empathetic"
+          ]
+        },
+        {
+          "idx": 4,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "empathetic",
+            "empathetic"
+          ]
+        },
+        {
+          "idx": 5,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 6,
+          "actual_states": [
+            "empathetic",
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "empathetic",
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 7,
+          "actual_states": [
+            "empathetic",
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "counsellor",
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 8,
+          "actual_states": [
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "empathetic"
+          ]
+        },
+        {
+          "idx": 9,
+          "actual_states": [
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 10,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "empathetic"
+          ]
+        }
+      ],
+      "hard": [
+        {
+          "idx": 1,
+          "actual_states": [
+            "empathetic",
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "empathetic",
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 2,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "counsellor",
+            "counsellor"
+          ]
+        },
+        {
+          "idx": 3,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "empathetic"
+          ]
+        },
+        {
+          "idx": 4,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "counsellor"
+          ]
+        },
+        {
+          "idx": 5,
+          "actual_states": [
+            "empathetic",
+            "counsellor"
+          ],
+          "generated_states": [
+            "empathetic",
+            "counsellor"
+          ]
+        },
+        {
+          "idx": 6,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 7,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "empathetic"
+          ]
+        },
+        {
+          "idx": 8,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 9,
+          "actual_states": [
+            "empathetic",
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "empathetic",
+            "empathetic"
+          ]
+        },
+        {
+          "idx": 10,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "counsellor",
+            "RAG_NS"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "triple_task": {
+      "easy": [
+        {
+          "idx": 1,
+          "actual_states": [
+            "empathetic",
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "empathetic",
+            "RAG_NS",
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 2,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic",
+            "counsellor"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "empathetic",
+            "counsellor"
+          ]
+        },
+        {
+          "idx": 3,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "RAG_NS",
+            "empathetic"
+          ]
+        },
+        {
+          "idx": 4,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic",
+            "counsellor"
+          ],
+          "generated_states": [
+            "empathetic",
+            "empathetic",
+            "counsellor"
+          ]
+        },
+        {
+          "idx": 5,
+          "actual_states": [
+            "empathetic",
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "empathetic",
+            "RAG_NS",
+            "empathetic"
+          ]
+        },
+        {
+          "idx": 6,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic",
+            "counsellor"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "empathetic",
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 7,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "empathetic",
+            "RAG_NS",
+            "empathetic"
+          ]
+        },
+        {
+          "idx": 8,
+          "actual_states": [
+            "empathetic",
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "empathetic",
+            "RAG_NS",
+            "counsellor"
+          ]
+        },
+        {
+          "idx": 9,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic",
+            "counsellor"
+          ],
+          "generated_states": [
+            "counsellor",
+            "empathetic",
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 10,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic",
+            "counsellor"
+          ],
+          "generated_states": [
+            "empathetic",
+            "empathetic",
+            "empathetic"
+          ]
+        }
+      ],
+      "medium": [
+        {
+          "idx": 1,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic",
+            "counsellor"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "empathetic",
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 2,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "RAG_NS",
+            "empathetic"
+          ]
+        },
+        {
+          "idx": 3,
+          "actual_states": [
+            "empathetic",
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "empathetic",
+            "empathetic",
+            "empathetic"
+          ]
+        },
+        {
+          "idx": 4,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic",
+            "counsellor"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "empathetic",
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 5,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "RAG_NS",
+            "empathetic"
+          ]
+        },
+        {
+          "idx": 6,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic",
+            "counsellor"
+          ],
+          "generated_states": [
+            "empathetic",
+            "empathetic",
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 7,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "RAG_NS",
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 8,
+          "actual_states": [
+            "empathetic",
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "RAG_NS",
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 9,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic",
+            "counsellor"
+          ],
+          "generated_states": [
+            "empathetic",
+            "empathetic",
+            "counsellor"
+          ]
+        },
+        {
+          "idx": 10,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "empathetic",
+            "empathetic"
+          ]
+        }
+      ],
+      "hard": [
+        {
+          "idx": 1,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "RAG_NS",
+            "empathetic"
+          ]
+        },
+        {
+          "idx": 2,
+          "actual_states": [
+            "empathetic",
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "empathetic",
+            "counsellor",
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 3,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic",
+            "counsellor"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "empathetic",
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 4,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "counsellor",
+            "counsellor",
+            "empathetic"
+          ]
+        },
+        {
+          "idx": 5,
+          "actual_states": [
+            "empathetic",
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "empathetic",
+            "RAG_NS",
+            "counsellor"
+          ]
+        },
+        {
+          "idx": 6,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic",
+            "counsellor"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "empathetic",
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 7,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "empathetic",
+            "empathetic"
+          ]
+        },
+        {
+          "idx": 8,
+          "actual_states": [
+            "empathetic",
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "empathetic",
+            "RAG_NS",
+            "empathetic"
+          ]
+        },
+        {
+          "idx": 9,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic",
+            "counsellor"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "empathetic",
+            "RAG_NS"
+          ]
+        },
+        {
+          "idx": 10,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "RAG_NS",
+            "counsellor",
+            "empathetic"
+          ]
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "single_task": {
+      "easy": 0.8,
+      "medium": 0.9,
+      "hard": 0.9
+    }
+  },
+  {
+    "double_task": {
+      "easy": 0.95,
+      "medium": 0.85,
+      "hard": 0.9
+    }
+  },
+  {
+    "triple_task": {
+      "easy": 0.8,
+      "medium": 0.8666666666666668,
+      "hard": 0.7666666666666667
+    }
+  }
+]

@@ -1,0 +1,6 @@
+[submodule "pipelines"]
+	path = pipelines
+	url = https://github.com/AI-DA-STC/openwebui-pipelines.git
+[submodule "open_webui"]
+	path = open_webui
+	url = https://github.com/AI-DA-STC/open-webui.git

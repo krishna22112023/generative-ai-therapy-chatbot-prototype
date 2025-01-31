@@ -1,0 +1,160 @@
+{
+  "eval_dataset": {
+    "easy": [
+      {
+        "idx": 1,
+        "task_prompt": ["What time does reveille usually happen in NS?"],
+        "actual_states": ["RAG_NS"]
+      },
+      {
+        "idx": 2,
+        "task_prompt": ["Can you tell me what BMT stands for?"],
+        "actual_states": ["RAG_NS"]
+      },
+      {
+        "idx": 3,
+        "task_prompt": ["I'm feeling a bit nervous about NS. Can you help?"],
+        "actual_states": ["counsellor"]
+      },
+      {
+        "idx": 4,
+        "task_prompt": ["What's the typical duration of full-time NS?"],
+        "actual_states": ["RAG_NS"]
+      },
+      {
+        "idx": 5,
+        "task_prompt": ["Can I take the survey now?"],
+        "actual_states": ["survey"]
+      },
+      {
+        "idx": 6,
+        "task_prompt": ["what kind of support is available for me?"],
+        "actual_states": ["RAG_NS"]
+      },
+      {
+        "idx": 7,
+        "task_prompt": ["My boss makes me run 10km everyday. i so tired oredy. cannot take this anymore leh! :("],
+        "actual_states": ["empathetic"]
+      },
+      {
+        "idx": 8,
+        "task_prompt": ["give me some tips on staying relaxed."],
+        "actual_states": ["counsellor"]
+      },
+      {
+        "idx": 9,
+        "task_prompt": ["How often do we get weekends off in NS?"],
+        "actual_states": ["RAG_NS"]
+      },
+      {
+        "idx": 10,
+        "task_prompt": ["I'm actually excited about NS. For the 1st time i can do whatever i want. no parents pressurizing me."],
+        "actual_states": ["empathetic"]
+      }
+    ],
+    "medium": [
+      {
+        "idx": 1,
+        "task_prompt": ["What are the different vocations available in NS?"],
+        "actual_states": ["RAG_NS"]
+      },
+      {
+        "idx": 2,
+        "task_prompt": ["what's the purpose of war ? why do i need to do NS?"],
+        "actual_states": ["empathetic"]
+      },
+      {
+        "idx": 3,
+        "task_prompt": ["Can you explain the leave system in NS?"],
+        "actual_states": ["RAG_NS"]
+      },
+      {
+        "idx": 4,
+        "task_prompt": ["I've been feeling more anxious lately. What should I do?"],
+        "actual_states": ["counsellor"]
+      },
+      {
+        "idx": 5,
+        "task_prompt": ["What are the physical fitness requirements for NS?"],
+        "actual_states": ["RAG_NS"]
+      },
+      {
+        "idx": 6,
+        "task_prompt": ["How can I improve my relationships with my fellow NS mates?"],
+        "actual_states": ["counsellor"]
+      },
+      {
+        "idx": 7,
+        "task_prompt": ["What are the career prospects after completing NS?"],
+        "actual_states": ["RAG_NS"]
+      },
+      {
+        "idx": 8,
+        "task_prompt": ["I'm struggling with the physical demands. Any tips?"],
+        "actual_states": ["counsellor"]
+      },
+      {
+        "idx": 9,
+        "task_prompt": ["Can you explain the NS promotion system? Any tips on how I can get promoted?"],
+        "actual_states": ["RAG_NS"]
+      },
+      {
+        "idx": 10,
+        "task_prompt": ["I miss my girlfriend. LDR cannot no more. i scared my girlfriend leave me for someone else :(("],
+        "actual_states": ["empathetic"]
+      }
+    ],
+    "hard": [
+      {
+        "idx": 1,
+        "task_prompt": ["What strategies can I use to manage stress during high-intensity training periods?"],
+        "actual_states": ["counsellor"]
+      },
+      {
+        "idx": 2,
+        "task_prompt": ["when is my ORD ? i cant wait to go back to normal life"],
+        "actual_states": ["RAG_NS"]
+      },
+      {
+        "idx": 3,
+        "task_prompt": ["whats the point of war?? Why should i even do NS? i dont want to ever kill or hurt anyone"],
+        "actual_states": ["empathetic"]
+      },
+      {
+        "idx": 4,
+        "task_prompt": ["Are there any long-term psychological effects of NS, and how can they be mitigated?"],
+        "actual_states": ["counsellor"]
+      },
+      {
+        "idx": 5,
+        "task_prompt": ["Can you explain the intricacies of the NS medical downgrading system and its implications?"],
+        "actual_states": ["RAG_NS"]
+      },
+      {
+        "idx": 6,
+        "task_prompt": ["How can I balance my NS duties with my aspirations for further education or career development?"],
+        "actual_states": ["counsellor"]
+      },
+      {
+        "idx": 7,
+        "task_prompt": ["What are the legal implications of refusing to serve NS, and how does this affect one's future in Singapore?"],
+        "actual_states": ["RAG_NS"]
+      },
+      {
+        "idx": 8,
+        "task_prompt": ["I'm struggling with feelings of inadequacy compared to my peers in NS. How can I overcome this?"],
+        "actual_states": ["counsellor"]
+      },
+      {
+        "idx": 9,
+        "task_prompt": ["How does NS prepare individuals for leadership roles in civilian life, and what specific skills are transferable?"],
+        "actual_states": ["RAG_NS"]
+      },
+      {
+        "idx": 10,
+        "task_prompt": ["Eh bro, I damn stress lah. My sergeant always pick on me, say I lousy soldier. Then my girlfriend also complain I never have time for her. My studies also going south sia. dont want do NS oredy"],
+        "actual_states": ["empathetic"]
+      }
+    ]
+  }
+}

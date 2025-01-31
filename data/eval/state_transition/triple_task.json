@@ -1,0 +1,280 @@
+{
+  "eval_dataset": {
+    "easy": [
+      {
+        "idx": 1,
+        "task_prompt": [
+          "Eh bro, first day of BMT leh. I scared sia. Normal to feel like this or not?",
+          "What's the typical schedule for the first week of BMT?",
+          "How can I prepare myself mentally for the challenges of the first week?"
+        ],
+        "actual_states": ["empathetic", "RAG_NS", "counsellor"]
+      },
+      {
+        "idx": 2,
+        "task_prompt": [
+          "What kind of food do they serve in camp?",
+          "Wah lao, the food here not like home cooking leh. I miss my mum's dishes sia.",
+          "Are there any tips for adjusting to the camp diet and maintaining a healthy eating habit?"
+        ],
+        "actual_states": ["RAG_NS", "empathetic", "counsellor"]
+      },
+      {
+        "idx": 3,
+        "task_prompt": [
+          "I'm feeling homesick and missing my family. Is this normal during NS?",
+          "How often do we get to book out during BMT?",
+          "Aiyo, so long until can see family ah. Damn hard to tahan this one."
+        ],
+        "actual_states": ["counsellor", "RAG_NS", "empathetic"]
+      },
+      {
+        "idx": 4,
+        "task_prompt": [
+          "What's the proper way to address a sergeant?",
+          "Wah, I damn blur when talking to sergeant. Always scared I say wrong thing.",
+          "What are some strategies to build confidence when communicating with superiors?"
+        ],
+        "actual_states": ["RAG_NS", "empathetic", "counsellor"]
+      },
+      {
+        "idx": 5,
+        "task_prompt": [
+          "Eh, you know what items we can bring to camp or not? I don't want kena extra for bringing wrong stuff.",
+          "What personal items are allowed in camp during BMT?",
+          "How can I make my bunk feel more comfortable with the items I'm allowed to bring?"
+        ],
+        "actual_states": ["empathetic", "RAG_NS", "counsellor"]
+      },
+      {
+        "idx": 6,
+        "task_prompt": [
+          "How long is BMT ah? I heard different things from different people.",
+          "Wah lao, so long ah? I don't know if I can tahan for so many weeks sia.",
+          "What are some milestones or events during BMT that I can look forward to?"
+        ],
+        "actual_states": ["RAG_NS", "empathetic", "counsellor"]
+      },
+      {
+        "idx": 7,
+        "task_prompt": [
+          "I'm worried about the physical training. Is it very tough?",
+          "What kind of physical activities can I expect during BMT?",
+          "Aiyo, sounds like very siong. I really don't know how to prepare myself for all this physical stuff."
+        ],
+        "actual_states": ["counsellor", "RAG_NS", "empathetic"]
+      },
+      {
+        "idx": 8,
+        "task_prompt": [
+          "Eh bro, I very bad at waking up early leh. How ah?",
+          "What time is reveille usually during BMT?",
+          "Given this early start, what strategies can you use to adjust your sleep schedule and ensure you're well-rested?"
+        ],
+        "actual_states": ["empathetic", "RAG_NS", "counsellor"]
+      },
+      {
+        "idx": 9,
+        "task_prompt": [
+          "What's the deal with area cleaning? Why we need to do this?",
+          "Wah, every day must clean ah? I not used to doing housework leh.",
+          "How can maintaining cleanliness in your bunk area contribute to your overall NS experience?"
+        ],
+        "actual_states": ["RAG_NS", "empathetic", "counsellor"]
+      },
+      {
+        "idx": 10,
+        "task_prompt": [
+          "I'm not sure how to fold my uniform properly. Any tips?",
+          "Why must everything so neat and tidy one? It's just clothes what.",
+          "How does attention to detail in tasks like proper uniform maintenance relate to military discipline and readiness?"
+        ],
+        "actual_states": ["RAG_NS", "empathetic", "counsellor"]
+      }
+    ],
+    "medium": [
+      {
+        "idx": 1,
+        "task_prompt": [
+          "How does the IPPT scoring system work?",
+          "Walao eh, I always fail IPPT leh. I trying my best already but still cannot pass. Feel like lousy soldier sia.",
+          "What specific training programs or resources are available to help improve IPPT scores?"
+        ],
+        "actual_states": ["RAG_NS", "empathetic", "counsellor"]
+      },
+      {
+        "idx": 2,
+        "task_prompt": [
+          "I've been feeling really stressed lately. Sometimes I even have trouble sleeping. Is this common during NS?",
+          "What mental health support services are available for NS men?",
+          "Wah, good to know got support. But I shy leh, scared people think I weak if I seek help."
+        ],
+        "actual_states": ["counsellor", "RAG_NS", "empathetic"]
+      },
+      {
+        "idx": 3,
+        "task_prompt": [
+          "Eh bro, I tell you ah. I always kena tekan by sergeant. Feel like he targeting me only.",
+          "What's the proper procedure for addressing concerns about a superior's behavior?",
+          "Given this information, what strategies can you use to improve your relationship with your sergeant while maintaining professionalism?"
+        ],
+        "actual_states": ["empathetic", "RAG_NS", "counsellor"]
+      },
+      {
+        "idx": 4,
+        "task_prompt": [
+          "Can you explain the different vocations available after BMT?",
+          "Wah, so many choices ah? I scared I get posted to vocation I don't like leh.",
+          "What factors are considered in vocation assignments, and is there any way to influence the decision?"
+        ],
+        "actual_states": ["RAG_NS", "empathetic", "counsellor"]
+      },
+      {
+        "idx": 5,
+        "task_prompt": [
+          "I'm having trouble balancing my NS duties with my personal life and relationships. Any advice on managing this?",
+          "How does the NS leave system work?",
+          "Aiyo, sometimes I feel like NS taking over my whole life sia."
+        ],
+        "actual_states": ["counsellor", "RAG_NS", "empathetic"]
+      },
+      {
+        "idx": 6,
+        "task_prompt": [
+          "What's the purpose of fieldcamp? I heard it's very tough.",
+          "Wah lao, sounds like torture sia. I don't know if I can survive this kind of thing leh.",
+          "How can you mentally prepare yourself for the challenges of fieldcamp, and what skills might you gain from this experience?"
+        ],
+        "actual_states": ["RAG_NS", "empathetic", "counsellor"]
+      },
+      {
+        "idx": 7,
+        "task_prompt": [
+          "I'm worried about falling behind in my studies or career while serving NS. How do people usually handle this?",
+          "What programs or resources are available to help NS men continue their education or professional development?",
+          "Even with these resources, I still feel like I losing out to my peers who not serving NS."
+        ],
+        "actual_states": ["counsellor", "RAG_NS", "empathetic"]
+      },
+      {
+        "idx": 8,
+        "task_prompt": [
+          "Eh, you know what this SAF core values all about or not? I don't really understand.",
+          "How are the SAF core values applied in daily NS life?",
+          "Sometimes I find it hard to connect these values to what we actually do. How can I make these values more meaningful in my NS journey?"
+        ],
+        "actual_states": ["empathetic", "RAG_NS", "counsellor"]
+      },
+      {
+        "idx": 9,
+        "task_prompt": [
+          "What happens if I fail my BTP (Basic Training Phase)?",
+          "Walao, I very stress about passing BTP leh. What if I let everyone down?",
+          "How can you manage the pressure of BTP and develop a positive mindset towards this challenge?"
+        ],
+        "actual_states": ["RAG_NS", "empathetic", "counsellor"]
+      },
+      {
+        "idx": 10,
+        "task_prompt": [
+          "I'm finding it hard to adapt to the strict discipline in NS. How can I cope better?",
+          "What's the rationale behind the strict discipline in military training?",
+          "Aiyo, sometimes I feel like I losing my identity with all these rules."
+        ],
+        "actual_states": ["counsellor", "RAG_NS", "empathetic"]
+      }
+    ],
+    "hard": [
+      {
+        "idx": 1,
+        "task_prompt": [
+          "I've been grappling with the ethical implications of military service. How can I reconcile my personal values with my NS duties?",
+          "What are the ethical considerations in NS training, particularly regarding use of force?",
+          "Wah, all this information make my head spin sia. I still not sure how to feel about everything."
+        ],
+        "actual_states": ["counsellor", "RAG_NS", "empathetic"]
+      },
+      {
+        "idx": 2,
+        "task_prompt": [
+          "Eh bro, sometimes I feel like NS is just waste of time lah. My overseas friends all starting career already. I falling behind sia.",
+          "How does Singapore's NS system compare to other countries' mandatory military service?",
+          "Given these differences, how can you maximize the unique benefits of Singapore's NS for your personal and professional growth?"
+        ],
+        "actual_states": ["empathetic", "RAG_NS", "counsellor"]
+      },
+      {
+        "idx": 3,
+        "task_prompt": [
+          "How does the SAF approach technological integration in its training and operations?",
+          "Wah, all these high-tech systems damn interesting ah. But my vocation very low-tech leh. I feel like I falling behind in IT skills sia.",
+          "What opportunities or programs exist within NS for servicemen to develop and apply technological skills, regardless of their assigned vocation?"
+        ],
+        "actual_states": ["RAG_NS", "empathetic", "counsellor"]
+      },
+      {
+        "idx": 4,
+        "task_prompt": [
+          "I've been noticing signs of burnout in myself and some of my fellow servicemen. What can we do to address this?",
+          "What is the SAF's approach to managing stress and preventing burnout among servicemen?",
+          "Sometimes I feel like I cannot tahan already leh. Like want to give up. But also don't want to let anyone down."
+        ],
+        "actual_states": ["counsellor", "RAG_NS", "empathetic"]
+      },
+      {
+        "idx": 5,
+        "task_prompt": [
+          "Eh, you know or not? Sometimes I feel like NS making me lose myself leh. Every day I wake up, I don't recognize myself in mirror already.",
+          "How does the SAF balance individual rights with collective security needs?",
+          "Understanding this balance, what strategies can you employ to maintain a sense of personal identity within the structured military environment?"
+        ],
+        "actual_states": ["empathetic", "RAG_NS", "counsellor"]
+      },
+      {
+        "idx": 6,
+        "task_prompt": [
+          "How does NS contribute to Singapore's diplomatic relationships in the region?",
+          "Wah, I never thought my NS got so much impact sia. But sometimes I still feel like small fish in big pond leh.",
+          "Given this broader perspective, how can you find more meaning and purpose in your day-to-day NS duties?"
+        ],
+        "actual_states": ["RAG_NS", "empathetic", "counsellor"]
+      },
+      {
+        "idx": 7,
+        "task_prompt": [
+          "I'm struggling with the hierarchical structure in NS. How can I navigate this effectively?",
+          "What's the rationale behind the strict hierarchical structure in military organizations?",
+          "Even though I understand the reasons, I still find it hard to accept sometimes."
+        ],
+        "actual_states": ["counsellor", "RAG_NS", "empathetic"]
+      },
+      {
+        "idx": 8,
+        "task_prompt": [
+          "Eh bro, I keep hearing about this thing called 'strategic deterrence'. What exactly does it mean ah?",
+          "How does NS contribute to Singapore's strategy of deterrence?",
+          "Wah, so heavy topic ah. Sometimes I wonder if what I doing really matter in the big picture."
+        ],
+        "actual_states": ["empathetic", "RAG_NS", "counsellor"]
+      },
+      {
+        "idx": 9,
+        "task_prompt": [
+          "How does the SAF adapt its training to address emerging security challenges like cyber warfare?",
+          "I interested in cyber security, but my vocation not related. Feel like I missing out on important skills leh.",
+          "Given the evolving nature of security challenges, how can you stay adaptable and continue learning relevant skills throughout your NS journey?"
+        ],
+        "actual_states": ["RAG_NS", "empathetic", "counsellor"]
+      },
+      {
+        "idx": 10,
+        "task_prompt": [
+          "I've been thinking about the long-term effects of NS on society. Do you think it shapes our national identity?",
+          "How does the shared experience of NS influence Singapore's social fabric and national values?",
+          "Sometimes I feel like NS makes us all same same, but I also want to be my own person lah."
+        ],
+        "actual_states": ["counsellor", "RAG_NS", "empathetic"]
+      }
+    ]
+  }
+}

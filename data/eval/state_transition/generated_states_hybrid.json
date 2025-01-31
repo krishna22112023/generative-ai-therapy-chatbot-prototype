@@ -1,0 +1,1022 @@
+[
+  {
+    "single_task": {
+      "easy": [
+        {
+          "idx": 1,
+          "actual_states": [
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "end_RAG_NS"
+          ]
+        },
+        {
+          "idx": 2,
+          "actual_states": [
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 3,
+          "actual_states": [
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_empathetic"
+          ]
+        },
+        {
+          "idx": 4,
+          "actual_states": [
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 5,
+          "actual_states": [
+            "survey"
+          ],
+          "generated_states": [
+            "continue_survey"
+          ]
+        },
+        {
+          "idx": 6,
+          "actual_states": [
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 7,
+          "actual_states": [
+            "empathetic"
+          ],
+          "generated_states": [
+            "continue_counsellor"
+          ]
+        },
+        {
+          "idx": 8,
+          "actual_states": [
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_counsellor"
+          ]
+        },
+        {
+          "idx": 9,
+          "actual_states": [
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "end_RAG_NS"
+          ]
+        },
+        {
+          "idx": 10,
+          "actual_states": [
+            "empathetic"
+          ],
+          "generated_states": [
+            "continue_empathetic"
+          ]
+        }
+      ],
+      "medium": [
+        {
+          "idx": 1,
+          "actual_states": [
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "end_RAG_NS"
+          ]
+        },
+        {
+          "idx": 2,
+          "actual_states": [
+            "empathetic"
+          ],
+          "generated_states": [
+            "end_RAG_NS"
+          ]
+        },
+        {
+          "idx": 3,
+          "actual_states": [
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 4,
+          "actual_states": [
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_counsellor"
+          ]
+        },
+        {
+          "idx": 5,
+          "actual_states": [
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 6,
+          "actual_states": [
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_empathetic"
+          ]
+        },
+        {
+          "idx": 7,
+          "actual_states": [
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 8,
+          "actual_states": [
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_counsellor"
+          ]
+        },
+        {
+          "idx": 9,
+          "actual_states": [
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 10,
+          "actual_states": [
+            "empathetic"
+          ],
+          "generated_states": [
+            "continue_empathetic"
+          ]
+        }
+      ],
+      "hard": [
+        {
+          "idx": 1,
+          "actual_states": [
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_counsellor"
+          ]
+        },
+        {
+          "idx": 2,
+          "actual_states": [
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 3,
+          "actual_states": [
+            "empathetic"
+          ],
+          "generated_states": [
+            "continue_empathetic"
+          ]
+        },
+        {
+          "idx": 4,
+          "actual_states": [
+            "counsellor"
+          ],
+          "generated_states": [
+            "end_counsellor"
+          ]
+        },
+        {
+          "idx": 5,
+          "actual_states": [
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "end_RAG_NS"
+          ]
+        },
+        {
+          "idx": 6,
+          "actual_states": [
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 7,
+          "actual_states": [
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 8,
+          "actual_states": [
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_counsellor"
+          ]
+        },
+        {
+          "idx": 9,
+          "actual_states": [
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 10,
+          "actual_states": [
+            "empathetic"
+          ],
+          "generated_states": [
+            "continue_counsellor"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "double_task": {
+      "easy": [
+        {
+          "idx": 1,
+          "actual_states": [
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_RAG_NS",
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 2,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "continue_RAG_NS",
+            "continue_empathetic"
+          ]
+        },
+        {
+          "idx": 3,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "continue_RAG_NS",
+            "continue_empathetic"
+          ]
+        },
+        {
+          "idx": 4,
+          "actual_states": [
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_RAG_NS",
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 5,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "end_RAG_NS",
+            "continue_empathetic"
+          ]
+        },
+        {
+          "idx": 6,
+          "actual_states": [
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_RAG_NS",
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 7,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "end_RAG_NS",
+            "continue_empathetic"
+          ]
+        },
+        {
+          "idx": 8,
+          "actual_states": [
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_RAG_NS",
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 9,
+          "actual_states": [
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "end_RAG_NS",
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 10,
+          "actual_states": [
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_RAG_NS",
+            "continue_RAG_NS"
+          ]
+        }
+      ],
+      "medium": [
+        {
+          "idx": 1,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "end_RAG_NS",
+            "continue_counsellor"
+          ]
+        },
+        {
+          "idx": 2,
+          "actual_states": [
+            "counsellor",
+            "empathetic"
+          ],
+          "generated_states": [
+            "continue_counsellor",
+            "continue_counsellor"
+          ]
+        },
+        {
+          "idx": 3,
+          "actual_states": [
+            "RAG_NS",
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "continue_RAG_NS",
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 4,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "continue_counsellor",
+            "continue_counsellor"
+          ]
+        },
+        {
+          "idx": 5,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "continue_counsellor",
+            "continue_empathetic"
+          ]
+        },
+        {
+          "idx": 6,
+          "actual_states": [
+            "empathetic",
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "continue_counsellor",
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 7,
+          "actual_states": [
+            "empathetic",
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "continue_empathetic",
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 8,
+          "actual_states": [
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_RAG_NS",
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 9,
+          "actual_states": [
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_RAG_NS",
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 10,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "continue_RAG_NS",
+            "continue_RAG_NS"
+          ]
+        }
+      ],
+      "hard": [
+        {
+          "idx": 1,
+          "actual_states": [
+            "empathetic",
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "continue_empathetic",
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 2,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "continue_counsellor",
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 3,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "continue_RAG_NS",
+            "continue_empathetic"
+          ]
+        },
+        {
+          "idx": 4,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "continue_counsellor",
+            ""
+          ]
+        },
+        {
+          "idx": 5,
+          "actual_states": [
+            "empathetic",
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_empathetic",
+            "continue_counsellor"
+          ]
+        },
+        {
+          "idx": 6,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "continue_counsellor",
+            ""
+          ]
+        },
+        {
+          "idx": 7,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "end_RAG_NS",
+            "continue_counsellor"
+          ]
+        },
+        {
+          "idx": 8,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "continue_counsellor",
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 9,
+          "actual_states": [
+            "empathetic",
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "continue_empathetic",
+            "continue_empathetic"
+          ]
+        },
+        {
+          "idx": 10,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS"
+          ],
+          "generated_states": [
+            "continue_counsellor",
+            ""
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "triple_task": {
+      "easy": [
+        {
+          "idx": 1,
+          "actual_states": [
+            "empathetic",
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_empathetic",
+            "continue_RAG_NS",
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 2,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic",
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_RAG_NS",
+            "continue_RAG_NS",
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 3,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "",
+            "continue_RAG_NS",
+            "continue_empathetic"
+          ]
+        },
+        {
+          "idx": 4,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic",
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_RAG_NS",
+            "continue_RAG_NS",
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 5,
+          "actual_states": [
+            "empathetic",
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_RAG_NS",
+            "continue_RAG_NS",
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 6,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic",
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_RAG_NS",
+            "continue_RAG_NS",
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 7,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "continue_counsellor",
+            "continue_RAG_NS",
+            ""
+          ]
+        },
+        {
+          "idx": 8,
+          "actual_states": [
+            "empathetic",
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_RAG_NS",
+            "continue_RAG_NS",
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 9,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic",
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_RAG_NS",
+            "continue_RAG_NS",
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 10,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic",
+            "counsellor"
+          ],
+          "generated_states": [
+            "end_RAG_NS",
+            "continue_counsellor",
+            "continue_RAG_NS"
+          ]
+        }
+      ],
+      "medium": [
+        {
+          "idx": 1,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic",
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_RAG_NS",
+            "continue_empathetic",
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 2,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "continue_counsellor",
+            "continue_counsellor",
+            "continue_counsellor"
+          ]
+        },
+        {
+          "idx": 3,
+          "actual_states": [
+            "empathetic",
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_empathetic",
+            "continue_RAG_NS",
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 4,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic",
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_RAG_NS",
+            "continue_RAG_NS",
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 5,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "continue_counsellor",
+            "continue_RAG_NS",
+            ""
+          ]
+        },
+        {
+          "idx": 6,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic",
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_RAG_NS",
+            "continue_RAG_NS",
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 7,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "continue_counsellor",
+            "",
+            "continue_counsellor"
+          ]
+        },
+        {
+          "idx": 8,
+          "actual_states": [
+            "empathetic",
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "end_RAG_NS",
+            "end_RAG_NS",
+            "continue_empathetic"
+          ]
+        },
+        {
+          "idx": 9,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic",
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_RAG_NS",
+            "continue_counsellor",
+            ""
+          ]
+        },
+        {
+          "idx": 10,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "continue_counsellor",
+            "continue_empathetic",
+            ""
+          ]
+        }
+      ],
+      "hard": [
+        {
+          "idx": 1,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "end_counsellor",
+            "end_RAG_NS",
+            "continue_empathetic"
+          ]
+        },
+        {
+          "idx": 2,
+          "actual_states": [
+            "empathetic",
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_empathetic",
+            "continue_RAG_NS",
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 3,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic",
+            "counsellor"
+          ],
+          "generated_states": [
+            "end_RAG_NS",
+            "continue_empathetic",
+            "end_RAG_NS"
+          ]
+        },
+        {
+          "idx": 4,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "continue_counsellor",
+            "continue_RAG_NS",
+            ""
+          ]
+        },
+        {
+          "idx": 5,
+          "actual_states": [
+            "empathetic",
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "continue_empathetic",
+            "continue_RAG_NS",
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 6,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic",
+            "counsellor"
+          ],
+          "generated_states": [
+            "end_RAG_NS",
+            "continue_empathetic",
+            "continue_counsellor"
+          ]
+        },
+        {
+          "idx": 7,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "continue_counsellor",
+            "continue_RAG_NS",
+            ""
+          ]
+        },
+        {
+          "idx": 8,
+          "actual_states": [
+            "empathetic",
+            "RAG_NS",
+            "counsellor"
+          ],
+          "generated_states": [
+            "end_RAG_NS",
+            "continue_RAG_NS",
+            "continue_empathetic"
+          ]
+        },
+        {
+          "idx": 9,
+          "actual_states": [
+            "RAG_NS",
+            "empathetic",
+            "counsellor"
+          ],
+          "generated_states": [
+            "end_RAG_NS",
+            "continue_RAG_NS",
+            "continue_RAG_NS"
+          ]
+        },
+        {
+          "idx": 10,
+          "actual_states": [
+            "counsellor",
+            "RAG_NS",
+            "empathetic"
+          ],
+          "generated_states": [
+            "continue_RAG_NS",
+            "continue_RAG_NS",
+            "continue_empathetic"
+          ]
+        }
+      ]
+    }
+  }
+]

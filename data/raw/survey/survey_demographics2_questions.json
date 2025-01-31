@@ -1,0 +1,27 @@
+{
+    "info": [
+        {
+            "Description": "The demographics question asks about user demographics",
+            "Total_Questions": "3",
+            "Duration": "About 1 minute"
+        }
+    ],
+    "preamble": "Please pick the options that best describe yourself.",
+    "qa": [
+        {
+            "1": "Please provide your age in years (e.g 18 or 20:",
+            "2": "Which gender do you like: \n a. Male. \n b. Female. \n c. Other (please specify). \n d. Prefer Not to Answer. \n",
+            "3": "How many kids do you have? (e.g. 0, 1, 2 etc):"
+        }
+    ],
+    "answer_structure": [
+        {
+            "Question1": "str",
+            "Answer1": "str",
+            "Question2": "str",
+            "Answer2": "str",
+            "Question3": "str",
+            "Answer3": "str"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "info": [
+        {
+            "Description": "The GAD-7 (Generalized Anxiety Disorder 7-item) survey is a widely used screening tool for assessing the severity of generalized anxiety disorder (GAD) in individuals. It consists of seven questions that measure the level of anxiety experienced over the past two weeks. Each question is rated on a 4-point scale ranging from 0 (not at all) to 3 (nearly every day).",
+            "Total_Questions": "2",
+            "Duration": "About 1 minute"
+        }
+    ],
+    "preamble": "Over the last 2 weeks, how often have you been bothered by any of the following problems?",
+    "qa": [
+        {
+            "1": "Feeling nervous, anxious, or on edge: \n a. Not at all. \n b. Several days. \n c. More than half the days. \n d. Nearly every day. \n",
+            "2": "Not being able to stop or control worrying: \n a. Not at all. \n b. Several days. \n c. More than half the days. \n d. Nearly every day. \n"
+        }
+    ],
+    "answer_structure": [
+        {
+            "Question1": "str",
+            "Answer1": "str",
+            "Question2": "str",
+            "Answer2": "str"
+        }
+    ]
+}

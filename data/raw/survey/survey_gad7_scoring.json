@@ -1,0 +1,23 @@
+{
+    "info": [
+        {
+            "Description": "The GAD-7 (Generalized Anxiety Disorder 7-item) survey is a widely used screening tool for assessing the severity of generalized anxiety disorder (GAD) in individuals. It consists of seven questions that measure the level of anxiety experienced over the past two weeks. Each question is rated on a 4-point scale ranging from 0 (not at all) to 3 (nearly every day). The full survey score ranges from 0 to 21.",
+            "Total_Questions": "2"
+        }
+    ],
+    "scoring": [
+        {
+            "1": "Not at all:0;Several days:1;More than half the days:2;Nearly every day:3",
+            "2": "Not at all:0;Several days:1;More than half the days:2;Nearly every day:3"
+        }
+    ],
+    "preamble": "Hey there, I've looked at your responses to the GAD-7 survey, and I want to help you understand what they might mean. Remember, this isn't a diagnosis, but it can give us a good starting point to talk about how you're feeling.",
+    "results": [
+        {
+            "0-4": "Minimal Anxiety. It looks like you're experiencing minimal anxiety right now. That's great news! You're probably not feeling too many worry or stress symptoms in your day-to-day life. While you might feel anxious sometimes (we all do!), it's likely not getting in the way of your daily activities. Keep up the good work! To maintain this positive state, try to stick to a healthy routine - get enough sleep, eat well, exercise regularly, and make time for activities you enjoy. It's also a good idea to keep an eye on how you're feeling and reach out if you notice any changes.",
+            "5-9": "Mild Anxiety. Your responses suggest you might be experiencing mild anxiety. You're probably feeling some worry or stress, and while it's usually manageable, it might be making some parts of your day a bit trickier. Don't worry, though - there are lots of things you can do to feel better! Why not try some relaxation techniques like deep breathing or meditation? Regular exercise can also work wonders for anxiety. It might also help to talk to someone you trust about how you're feeling. If you find these feelings are persistent or start to increase, consider reaching out to a counselor or joining a support group. Remember, seeking help is a sign of strength!",
+            "10-14": "Moderate Anxiety. Based on your answers, it seems like you might be dealing with moderate anxiety. I can imagine this isn't easy, and I want you to know that it's okay to feel this way. Anxiety at this level can make daily life feel more challenging, but there are ways to manage it and feel better. It might be a good idea to talk to a mental health professional who can provide more personalized support. They might suggest therapy, like cognitive-behavioral therapy, which can give you tools to manage anxiety. In the meantime, try to be kind to yourself. Engage in activities that make you feel calm and happy, reach out to supportive friends or family, and remember that it's okay to take breaks when you need them. You're not alone in this, and with the right support, things can get better..",
+            "15-21": "Severe Anxiety. Symptoms: I see from your responses that you're likely experiencing severe anxiety. I want you to know that I hear you, and I understand this must be really tough. Anxiety at this level can significantly impact various aspects of your life, from work to relationships to your overall well-being. But I want you to know that help is available, and things can get better. The first step is to reach out to a healthcare provider or mental health professional as soon as possible. They can work with you to create a treatment plan, which might include therapy, medication, or other approaches. In the meantime, try to be gentle with yourself. It's okay to take things one day at a time. Lean on your support system - friends, family, or support groups can be invaluable. Remember, you're showing incredible strength by acknowledging these feelings, and seeking help is a courageous step towards feeling better."
+        }
+    ]
+}

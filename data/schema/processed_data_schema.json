@@ -1,0 +1,45 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "ID": {
+        "type": "number"
+      },
+      "Name": {
+        "type": "string"
+      },
+      "description": {
+        "type": "string"
+      },
+      "response_type": {
+        "type": "string",
+        "enum": ["Website", "Text", "Video", "Audio", "Image", "PDF"]
+      },
+      "keywords": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "cat0": {
+        "type": "string"
+      },
+      "verbatim_flag": {
+        "type": "boolean"
+      },
+      "url": {
+        "type": "string",
+        "format": "uri"
+      },
+      "duration": {
+        "type": ["number", "string", "null"]
+      },
+      "text": {
+        "type": ["string", "null"]
+      }
+    },
+    "required": ["ID", "Name", "description", "response_type", "keywords", "cat0", "verbatim_flag", "url"]
+  }
+}

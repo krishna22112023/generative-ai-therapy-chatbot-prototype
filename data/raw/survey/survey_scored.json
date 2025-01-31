@@ -1,0 +1,58 @@
+{
+    "benjamin.davis": {
+        "phq9": {
+            "2024-08-06": {
+                "error": null,
+                "survey_date": "2024-08-06",
+                "raw_answers": {
+                    "1": "Not at all",
+                    "2": "Several days",
+                    "3": "Not at all"
+                },
+                "score_available": true,
+                "score": 1,
+                "interpretation": "Mild Anxiety. Your responses suggest you might be experiencing mild anxiety. You're probably feeling some worry or stress, and while it's usually manageable, it might be making some parts of your day a bit trickier. Don't worry, though - there are lots of things you can do to feel better! Why not try some relaxation techniques like deep breathing or meditation? Regular exercise can also work wonders for anxiety. It might also help to talk to someone you trust about how you're feeling. If you find these feelings are persistent or start to increase, consider reaching out to a counselor or joining a support group. Remember, seeking help is a sign of strength!",
+                "survey_info": {
+                    "Description": "The PHQ-9 (Patient Health Questionnaire 9-item) survey is a widely used screening tool for assessing the severity of generalized anxiety disorder (GAD) in individuals. It consists of seven questions that measure the level of anxiety experienced over the past two weeks. Each question is rated on a 4-point scale ranging from 0 (not at all) to 3 (nearly every day). The full survey score ranges from 0 to 21.",
+                    "Total_Questions": "3"
+                }
+            },
+            "2024-08-07": 9,
+            "2024-08-19": 0
+        },
+        "gad7": {
+            "2024-08-05": {
+                "error": null,
+                "survey_date": "2024-08-05",
+                "raw_answers": {
+                    "1": "Nearly every day",
+                    "2": "Nearly every day"
+                },
+                "score_available": true,
+                "score": 6,
+                "interpretation": "Mild Anxiety. Your responses suggest you might be experiencing mild anxiety. You're probably feeling some worry or stress, and while it's usually manageable, it might be making some parts of your day a bit trickier. Don't worry, though - there are lots of things you can do to feel better! Why not try some relaxation techniques like deep breathing or meditation? Regular exercise can also work wonders for anxiety. It might also help to talk to someone you trust about how you're feeling. If you find these feelings are persistent or start to increase, consider reaching out to a counselor or joining a support group. Remember, seeking help is a sign of strength!",
+                "survey_info": {
+                    "Description": "The GAD-7 (Generalized Anxiety Disorder 7-item) survey is a widely used screening tool for assessing the severity of generalized anxiety disorder (GAD) in individuals. It consists of seven questions that measure the level of anxiety experienced over the past two weeks. Each question is rated on a 4-point scale ranging from 0 (not at all) to 3 (nearly every day). The full survey score ranges from 0 to 21.",
+                    "Total_Questions": "2"
+                }
+            },
+            "2024-08-06": {
+                "error": null,
+                "survey_date": "2024-08-06",
+                "raw_answers": {
+                    "1": "Nearly every day",
+                    "2": "Nearly every day"
+                },
+                "score_available": true,
+                "score": 6,
+                "interpretation": "Mild Anxiety. Your responses suggest you might be experiencing mild anxiety. You're probably feeling some worry or stress, and while it's usually manageable, it might be making some parts of your day a bit trickier. Don't worry, though - there are lots of things you can do to feel better! Why not try some relaxation techniques like deep breathing or meditation? Regular exercise can also work wonders for anxiety. It might also help to talk to someone you trust about how you're feeling. If you find these feelings are persistent or start to increase, consider reaching out to a counselor or joining a support group. Remember, seeking help is a sign of strength!",
+                "survey_info": {
+                    "Description": "The GAD-7 (Generalized Anxiety Disorder 7-item) survey is a widely used screening tool for assessing the severity of generalized anxiety disorder (GAD) in individuals. It consists of seven questions that measure the level of anxiety experienced over the past two weeks. Each question is rated on a 4-point scale ranging from 0 (not at all) to 3 (nearly every day). The full survey score ranges from 0 to 21.",
+                    "Total_Questions": "2"
+                }
+            },
+            "2024-08-16": 0,
+            "2024-08-19": 0
+        }
+    }
+}
